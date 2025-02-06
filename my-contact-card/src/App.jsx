@@ -52,7 +52,7 @@ function App() {
     {
       id: 3,
       setup: "Why don't pirates travel on mountain roads?",
-      punchline: "Scurvy",
+      punchline: "Scurvyyy",
     },
     {
       id: 4,
